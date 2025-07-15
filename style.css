@@ -91,7 +91,7 @@
             
         }
         .card{
-            width: 400px;
+            width: 300px;
             background-color: rgb(239, 225, 209);
             border-radius: 20px;
         }
@@ -103,11 +103,11 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 3px 8px;
+            padding: 3px 20px;
             align-items: center;
         }
         .arrange{
-            width: 400px;
+            width: 300px;
             border-radius: 20px 20px 0px 0px;
 
         }
