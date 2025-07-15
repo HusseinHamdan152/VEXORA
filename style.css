@@ -12,9 +12,10 @@
         .s {
             display: flex;
             align-items: center;
+            width: 600px;
         }
         .logo {
-            width: 50%;      
+            width: 20%;      
         }
         .logo-name{
             color: black;
@@ -26,6 +27,7 @@
             padding: 5px 15px;
             text-decoration: none;
             border-radius: 15px;
+            justify-content: space-between;
         }
         .header-links a:hover{
             background-color: gray;
