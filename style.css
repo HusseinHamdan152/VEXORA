@@ -68,17 +68,22 @@
             border-radius: 30px;
         }
         .landing-page-left-section{
-            width: 28%;;
+            width: 28%;
         }
        
         .container{
             padding: 10px 20px 10px 20px;
+            text-decoration: none;
             
         }
         .card{
             width: 400px;
             background-color: rgb(239, 225, 209);
             border-radius: 20px;
+        }
+        .card-name a{
+            text-decoration: none;
+            color: black;
         }
         .card-info{
             display: flex;
@@ -96,6 +101,7 @@
             display: flex;
             justify-content: space-between;
             padding: 0px 50px;
+            text-decoration: none;
 
         }
         .icon{
