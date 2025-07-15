@@ -23,7 +23,7 @@
         }
         .header-links a{
             color: black;
-            padding: 5px 15px;
+            padding: 5px 0px;
             text-decoration: none;
             border-radius: 15px;
             justify-content: space-between;
