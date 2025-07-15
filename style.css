@@ -3,22 +3,27 @@
             
         }
         .header {
-            background-color: white;
+            background-color: white;        
             display: flex;
-            align-items: center;
-            justify-content: space-between;
             padding: 10px 20px 10px 10px;
+            align-items: center;
+            
         }
         .s {
             display: flex;
             align-items: center;
         }
         .logo {
-            width: 10%;      
+            width: 30%;      
         }
         .logo-name{
             color: black;
             text-decoration: none;
+            
+        }
+        .header-links{
+            
+            display: flex;
             
         }
         .header-links a{
@@ -26,7 +31,7 @@
             padding: 5px 10px;
             text-decoration: none;
             border-radius: 20px;
-            justify-content: space-between;
+            
             
             
             
@@ -40,6 +45,7 @@
             border: none;
             border-radius: 20px;
             padding: 5px 15px;
+            
         }
         .button:hover{
             background-color: gray;
