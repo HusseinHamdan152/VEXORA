@@ -118,7 +118,7 @@ body {
 }
 .products{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 0px 50px;
     text-decoration: none;
 }
