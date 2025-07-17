@@ -1,134 +1,132 @@
 
-        body {
-            
-        }
-        .header {
-            background-color: white;        
-            display: flex;
-            padding: 10px 20px 10px 10px;
-            align-items: center;
-            
-        }
-        .s {
-            display: flex;
-            align-items: center;
-        }
-        .logo {
-            width: 30%;      
-        }
-        .logo-name{
-            color: black;
-            text-decoration: none;
-            
-        }
-        .header-links{
-            
-            display: flex;
-            width: 70%;
-            
-        }
-        .header-links a{
-            color: black;
-            padding: 5px 10px;
-            text-decoration: none;
-            border-radius: 20px;
-            
-            
-            
-            
-        }
-        .header-links a:hover{
-            background-color: gray;
-        }
-        .button {
-            background-color: black;
-            color: white;
-            border: none;
-            border-radius: 20px;
-            padding: 5px 15px;
-            align-items: center;
-            justify-content: center;
-            
-        }
-        .button:hover{
-            background-color: gray;
-            
-        }
-        .landing-page{
-            background-color: white;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 10px 20px 10px 20px;
-            color: black;
-        }
-        .landing-page-search input{
-            border-radius: 50px;
-            height: 30px;
-            padding: 15px 10px;
-            width: 90%;
-        }
-        .landing-page-search button{
-            position: absolute;
-            left: 220px;
-            
-            width: 12%;
-            padding: 24px 0px;
-            border-radius: 50px;
-            align-items: center;
-        }
-        .landing-page-pic{
-            width: 500px;
-            border-radius: 30px;
-        }
-        .landing-page-left-section{
-            width: 28%;
-        }
-       
-        .container{
-            padding: 10px 20px 10px 20px;
-            text-decoration: none;
-            
-        }
-        .card{
-            width: 400px;
-            background-color: rgb(239, 225, 209);
-            border-radius: 20px;
-        }
-        .card-name a{
-            text-decoration: none;
-            color: black;
-        }
-        .card-info{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 3px 20px;
-            align-items: center;
-        }
-        .arrange{
-            width: 400px;
-            border-radius: 20px 20px 0px 0px;
+body {
+    
+}
+.header {
+    background-color: white;        
+    display: flex;
+    padding: 10px 20px 10px 10px;
+    align-items: center;
+    
+}
+.s {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 30%;      
+}
+.logo-name{
+    color: black;
+    text-decoration: none;
+    
+}
+.header-links{
+    
+    display: flex;
+    width: 70%;
+    
+}
+.header-links a{
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    
+    
+    
+    
+}
+.header-links a:hover{
+    background-color: gray;
+}
+.button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.button:hover{
+    background-color: gray;
+    
+}
+.landing-page{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px 10px 20px;
+    color: black;
+}
+.landing-page-search input{
+    border-radius: 50px;
+    height: 30px;
+    padding: 15px 10px;
+    width: 90%;
+}
+.landing-page-search button{
+    position: absolute;
+    left: 220px;
+    
+    width: 12%;
+    padding: 24px 0px;
+    border-radius: 50px;
+    align-items: center;
+}
+.landing-page-pic{
+    width: 500px;
+    border-radius: 30px;
+}
+.landing-page-left-section{
+    width: 28%;
+}
 
-        }
-        .products{
-            display: flex;
-            justify-content: space-between;
-            padding: 0px 50px;
-            text-decoration: none;
-
-        }
-        .icon{
-            width: 40px;
-            border-radius: 20px;
-        }
-        .icon img:hover{
-            background-color: gray;
-        }
-        .photo{
-            display: flex;
-            gap: 30px;
-        }
-        .d{
-            padding: 30px 0px;
-        }
+.container{
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+}
+.card{
+    width: 400px;
+    background-color: rgb(239, 225, 209);
+    border-radius: 20px;
+}
+.card-name a{
+    text-decoration: none;
+    color: black;
+}
+.card-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 20px;
+    align-items: center;
+}
+.arrange{
+    width: 400px;
+    border-radius: 20px 20px 0px 0px;
+}
+.products{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+    text-decoration: none;
+}
+.icon{
+    width: 40px;
+    border-radius: 20px;
+}
+.icon img:hover{
+    background-color: gray;
+}
+.photo{
+    display: flex;
+    gap: 30px;
+}
+.d{
+    padding: 30px 0px;
+}
