@@ -7,6 +7,10 @@ body {
     display: flex;
     padding: 10px 20px 10px 10px;
     align-items: center;
+    position: fixed;
+    top: 0px;
+    height: 10vh;
+    z-index: 1;
     
 }
 .s {
@@ -61,6 +65,7 @@ body {
     justify-content: space-between;
     padding: 10px 20px 10px 20px;
     color: black;
+    margin-top: 10vh;
 }
 .landing-page-search input{
     border-radius: 50px;
