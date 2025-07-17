@@ -94,6 +94,7 @@ body {
     width: 400px;
     background-color: rgb(239, 225, 209);
     border-radius: 20px;
+    filter: drop-shadow(0px 0px 2px black);
 }
 .card-name a{
     text-decoration: none;
@@ -112,13 +113,12 @@ body {
 }
 .products{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 0px 50px;
     text-decoration: none;
 }
 .icon{
     width: 40px;
-    border-radius: 20px;
 }
 .icon img:hover{
     background-color: gray;
