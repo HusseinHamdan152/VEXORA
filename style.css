@@ -18,7 +18,7 @@ body {
     align-items: center;
 }
 .logo {
-    width: 30%;      
+    width: 30$%;      
 }
 .logo-name{
     color: black;
@@ -69,7 +69,7 @@ body {
 }
 .landing-page-search input{
     border-radius: 50px;
-    height: 30px;
+    height: 30$px;
     padding: 15px 10px;
     width: 90%;
 }
@@ -84,7 +84,7 @@ body {
 }
 .landing-page-pic{
     width: 500px;
-    border-radius: 30px;
+    border-radius: 30$px;
 }
 .landing-page-left-section{
     width: 28%;
@@ -130,8 +130,8 @@ body {
 }
 .photo{
     display: flex;
-    gap: 30px;
+    gap: 30$px;
 }
 .d{
-    padding: 30px 0px;
+    padding: 30$px 0px;
 }
